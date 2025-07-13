@@ -15,5 +15,13 @@ A powerful Python tool to find hidden `.php` files and directories in a given we
 
 ## 🚀 Usage
 ```bash
-python finder-php.py
+git clone https://github.com/ZxDSeccond/finder-php/
+cd finder-php
 pip install requests beautifulsoup4
+python finder-php.py
+
+----
+
+
+I'M BORED WITH LIFE LIKE THIS
+I WANT TO MAKE A MESS AND MESS EVERYTHING UP
