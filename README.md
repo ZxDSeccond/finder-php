@@ -35,9 +35,8 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/ZxD-URL-Finder.git
-cd ZxD-URL-Finder
-(Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub username, and ZxD-URL-Finder with your repository name.)
+git clone https://github.com/ZxDSeccond/finder-php/
+cd finder-php
 
 Run the Tool:
 
